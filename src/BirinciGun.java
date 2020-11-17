@@ -8,6 +8,6 @@ public class BirinciGun {
 		System.out.println("10:35 -Ikinci gun");
 		System.out.println("11:23 -github.com");
 		System.out.println("11:28 -bakalım conflict olacak mı");
-		
+		System.out.println("yepyeni bir satir");
 	}
 }
